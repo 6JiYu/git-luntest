@@ -7,5 +7,6 @@ public class GltTest {
         System.out.println("HELLO GIT 3!");
         System.out.println("HELLO GIT 4!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
